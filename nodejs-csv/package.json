@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-csv",
+  "version": "1.0.0",
+  "description": "created a csv file with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs-csv"
+  },
+  "keywords": [
+    "csv",
+    "nodejs"
+  ],
+  "author": "imrany",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}
